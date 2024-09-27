@@ -5,14 +5,13 @@ class Solution(object):
         :rtype: int
         """
         roman_map={
-            'I'
-            'I'
-            'V'
-            'X'
-            'L'
-            'C'
-            'D'
-            'M'
+            'I':1,
+            'V':
+            'X':
+            'L':
+            'C':
+            'D':
+            'M':
         }
         pass
 
