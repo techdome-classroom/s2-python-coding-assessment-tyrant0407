@@ -6,7 +6,7 @@ class Solution(object):
                 stack.append(char)
             else:
                 if not stack or (char == ")" and stack[-1]!="(") or (char == "]" and stack[-1]!="[") or (char == "}" and stack[-1]!="{"):
-                    return False;
+                    return False
                 stack.pop()
         return len(stack) == 0
     
