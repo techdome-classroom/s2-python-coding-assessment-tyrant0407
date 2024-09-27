@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         roman_map={
-            
+            'I'
         }
         pass
 
