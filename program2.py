@@ -13,6 +13,10 @@ class Solution(object):
             'D':500,
             'M':1000,
         }
+        result=0
+        prev_value=0
+        for char in s:
+            value=roman_map[map]
         pass
 
 
