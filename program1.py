@@ -3,7 +3,7 @@ class Solution(object):
         stack=[]
         for char in s:
             if char in "([{":
-                
+                stack.append(char)
         pass
 
 
