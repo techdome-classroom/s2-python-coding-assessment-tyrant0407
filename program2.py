@@ -22,7 +22,7 @@ class Solution(object):
             else:
                 result+=value
             prev_value=value
-        return
+        return result
 
     pass
 
