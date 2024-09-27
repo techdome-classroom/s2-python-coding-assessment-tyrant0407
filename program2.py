@@ -8,8 +8,8 @@ class Solution(object):
             'I':1,
             'V':
             'X':
-            'L':
-            'C':
+            'L':50
+            'C':100,
             'D':500,
             'M':1000,
         }
