@@ -6,6 +6,13 @@ class Solution(object):
         """
         roman_map={
             'I'
+            'I'
+            'V'
+            'X'
+            'L'
+            'C'
+            'D'
+            'M'
         }
         pass
 
