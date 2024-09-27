@@ -7,6 +7,7 @@ class Solution(object):
             else:
                 if not stack or (char == ")" and stack[-1]!="(") or (char == "]" and stack[-1]!="[") or (char == "}" and stack[-1]!="{"):
                     return False;
+                stack.pop()
     
              
         pass
