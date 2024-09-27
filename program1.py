@@ -5,7 +5,7 @@ class Solution(object):
             if char in "([{":
                 stack.append(char)
             else:
-                if not stack or (char == '')
+                if not stack or (char == ")")
         pass
 
 
