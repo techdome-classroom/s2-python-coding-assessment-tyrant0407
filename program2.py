@@ -10,8 +10,8 @@ class Solution(object):
             'X':
             'L':
             'C':
-            'D':
-            'M':
+            'D':500,
+            'M':1000,
         }
         pass
 
